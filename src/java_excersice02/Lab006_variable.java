@@ -8,7 +8,7 @@ public class Lab006_variable {
       //variable value = 10 (literal)
 //      Data types
 //      1.Primitive - boolean and numeric
-//      2.Non priitive - class, enum, interface
+//      2.Non primiitive - class, enum, interface
         int age = 26;
         age=27;
         System.out.println(age+1);
